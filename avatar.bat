@@ -1,0 +1,1 @@
+cmd /k "cd /d Scripts & activate & cd /d .. & python avatar.py & exit"
